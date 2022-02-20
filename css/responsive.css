@@ -1,0 +1,739 @@
+@media screen and (max-width: 1440px) {
+    
+        header nav ul{
+            width: 40%;}
+
+        header .header-logo{
+            width: 15%;}
+
+        #services{
+            height: 90vh;}
+
+        #about .about-team .about-team-item img{
+            height: 300px;}
+
+        #about .about-team .about-team-item{
+            height: 300px;}
+
+        #base-story .base-story-desc .story-item div{
+            height: 130px;}
+
+        #project .box .box-item p{
+            padding: 0px 10px;
+            font-size: 13px;}
+
+        #project .box .box-item{
+            width: 280px;}
+
+        #project .box .box-item img{
+            width: 280px;
+            height: 240px;}
+
+        footer .footer-content .hot-content ul li a .hot-content-title p{
+            padding: 0 1px;}
+
+        footer .footer-content .portfolio ul li a .portfolio-title p{
+            padding: 0 1px;}
+
+        footer .footer-content .portfolio ul li a .portfolio-title h5{
+            padding: 0 1px;}
+}
+
+@media screen and (max-width: 1200px){
+
+    #info .info-item .info-item-desc{
+        font-size: 16px;}
+
+    #slider .slider-desc{
+        font-size: 40px;}
+
+    #slider .slider-desc .typed{
+        font-size: 30px;}
+
+    header .header-logo{
+        width: 13%;}
+
+    #base-story .base-story-desc .story-item div{
+        height: 100px;}
+
+    #about .about-team .about-team-item img{
+        height: 300px;}
+
+    #about .about-team .about-team-item{
+        height: 300px;}
+
+    #project .box .box-item img{
+        width: 250px;
+        height: 230px;}
+
+    #project .box .box-item{
+        width: 250px;}
+
+    #project .box .box-item p{
+        font-size: 13px;}
+
+    #article .post img{
+        height: 250px;}
+
+    footer .footer-about .about-contact{
+        width: 30%;}
+
+    footer .footer-about .about-title{
+        width: 70%;}
+
+    footer .footer-about .about-title p{
+        width: 590px;}
+
+    footer .footer-about .about-contact .footer-social ul{
+        width: 60%;}
+
+    footer .footer-content .hot-content ul li a .hot-content-title p{
+        font-size: 12px;}
+
+    footer .footer-content div{
+        width: 33.33%;}
+
+    footer .footer-content .portfolio ul li a .portfolio-title p{
+        font-size: 12px;}
+
+    footer .footer-content .portfolio ul li a .portfolio-title h5{
+        padding: 0 5px;}
+
+    footer .copy-right h4{
+        font-size: 18px;}
+
+    footer .copy-right p{
+        font-size: 13px;}
+}
+
+@media screen and (max-width: 1200px){
+
+    #header-top .header-top-message p{
+        font-size: 13px;}
+
+    #info .info-item .info-item-icon svg{
+        font-size: 30px;}
+
+    #info .info-item .info-item-desc{
+        font-size: 15px;}
+
+    #info .info-item .info-item-desc.time .friday{
+        font-size: 13px;}
+
+    #slider .slider-desc{
+        font-size: 30px;}
+
+    #slider .slider-desc .typed{
+        font-size: 25px;}
+
+    header .header-logo{
+        width: 12%;}
+
+    #base-story .base-story-desc .story-item div svg{
+        font-size: 30px;}
+
+    #base-story .base-story-desc .story-item div h4{
+        font-size: 14px;}
+
+    #services .tab-button ul li{
+        font-size: 16px;}
+
+    #services .tab-content .content-img{
+        padding: 22px 0;}
+
+    #about .about-title p{
+        font-size: 16px;}
+
+    #about .about-team .about-team-item img{
+        height: 270px;}
+
+    #about .about-team .about-team-item{
+        height: 270px;}
+
+    #beauty .beauty-text h1{
+        font-size: 25px;}
+
+    #project .box .box-item img{
+        width: 240px;}
+
+    #project .box .box-item{
+        width: 240px;}
+
+    #project .box .box-item h4{
+        font-size: 15px;}
+
+    #project .box .box-item p{
+        padding: 0 10px;}
+
+    #article .post .date h3{
+        font-size: 14px;}
+
+    #article .post .post-desc h4 a{
+        font-size: 14px;}
+
+    #article .post .post-desc p{
+        font-size: 13px;}
+
+    footer .footer-content .hot-content ul li a .hot-content-title h5{
+        font-size: 14px;}
+
+    footer .footer-content div{
+        width: 35.33%;}
+
+    footer .footer-content .quick-access ul li a{
+        font-size: 14px;}
+
+    footer .footer-content .portfolio ul li a .portfolio-title h5{
+        font-size: 14px;}
+
+    footer .copy-right h4{
+        font-size: 16px;}
+
+    footer .copy-right p{
+        font-size: 12px;}
+}
+
+@media screen and (max-width: 992px){
+
+    body{
+        overflow-x: hidden;}
+
+    header nav ul{
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: -100%;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    z-index: 1000;
+    transition: all .4s ease-in-out ;
+    -webkit-transition: all .4s ease-in-out ;
+    -moz-transition: all .4s ease-in-out ;
+    -ms-transition: all .4s ease-in-out ;
+    -o-transition: all .4s ease-in-out ;}
+
+    header ul.active{
+        left: 0;}
+
+    header nav ul li{
+        height: auto;
+        margin: 20px 0;}
+
+    .toggle-menu{
+        display: flex;}
+
+    header nav{
+        align-items: center;}
+
+    #info{
+        padding: 20px 0;}
+
+    #slider{
+        height: 400px;}
+
+    #slider .slider-desc{
+        height: 400px;}
+
+    #slider .slider-desc{
+        font-size: 25px;}
+
+    #slider .slider-desc .typed{
+        font-size: 20px;}
+    
+    #info .info-item .info-item-icon svg{
+        font-size: 25px;}
+
+    #info .info-item .info-item-desc.time{
+        font-size: 12px;}
+
+    #info .info-item .info-item-desc{
+        font-size: 12px;}
+
+    #info .info-item .info-item-desc.time .friday{
+        font-size: 11px;}
+
+    header nav ul{
+        width: 50%;}
+
+    header nav ul a{
+        font-size: 16px;}
+
+    #base-story .row{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;}
+
+    #base-story .base-story-video{
+        width: 70%;}
+
+    #base-story .base-story-desc{
+        width: 70%;}
+
+    #base-story .base-story-desc .story-title{
+        margin-top: 40px;}
+
+    #services .tab-content .content-img{
+        padding: 50px 0;}
+
+    #about .row{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;}
+
+    #about .about-title{
+        width: 70%;}
+
+    #about .about-team{
+        width: 70%;
+        margin-top: 50px;}
+
+    #about .about-title button{
+        padding: 10px;}
+
+    #about .about-team .about-team-item{
+        height: 250px;}
+
+    #about .about-team .about-team-item img{
+        height: 250px;}
+
+    #beauty .beauty-text h1{
+        font-size: 22px;}
+
+    #article{
+        height: 1600px;}
+
+    #article .article-post{
+        flex-direction: column;}
+
+    #article .post{
+        width: 60%;}
+
+    #project #lightSlider{
+        height: 344px;}
+
+    footer .footer-about{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;}
+
+    footer .footer-about .about-contact{
+        margin-top: 50px;
+        width: 50%;}
+
+    footer .footer-content{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;}
+
+    footer .footer-content div{
+        width: 60%;}
+
+    #single-content .single-row main .main-desc .comment-replay{
+        margin-right: 49px;}
+}
+
+@media screen and (max-width: 768px){
+
+    #info{
+        display: none;}
+
+    #slider{
+        height: 400px;}
+
+    #slider .slider-desc{
+        font-size: 20px;}
+
+    header nav{
+        align-items: center;} 
+
+    #base-story .base-story-desc .story-item div{
+        height: 90px;}
+
+    #services{
+        height: 135vh;}
+
+    #services .tab-content .tab .content{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;}
+
+    #services .tab-content .content-title{
+        width: 100%;}
+
+    #services .tab-content .content-img{
+        width: 100%;}
+
+    #services .tab-content .content-img img{
+        width: 50%;}
+
+    #about .about-team .about-team-item img{
+        height: 220px;}
+
+    #beauty .beauty-text h1{
+        font-size: 20px;}
+
+    #project .box .box-item img{
+        width: 200px;}
+
+    #project .box .box-item p{
+        width: 208px;
+        font-size: 13px;}
+
+    #project .box .box-item{
+        width: 200px;}
+
+    #project #lightSlider{
+        height: 345px;}
+
+    #partner ul{
+        flex-direction: column;}
+
+    #partner ul li{
+        width: 50%;}
+
+    #single-header{
+        height: 150px;}
+
+    #single-header svg{
+        font-size: 100px;}
+
+    #single-content .single-row{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;}
+
+    #single-content .single-row main{
+        width: 80%;}
+
+    #single-content .single-row aside{
+        width: 50%;}
+
+    #single-content .single-row aside .sidebar-item{
+        margin-top: 50px;}
+}
+
+@media screen and (max-width: 576px){
+
+    #header-top{
+        height: 6vh;}
+
+    #header-top .row{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;}
+
+    #header-top .header-top-social{
+        justify-content: center;}
+
+    #header-top .header-top-social ul{
+        width: 50%;}
+
+    #slider{
+        height: 400px;}
+
+    #slider .slider-desc{
+        font-size: 20px;}
+
+    #slider .slider-desc .typed{
+        font-size: 20px;}
+
+    header .header-logo{
+        width: 20%;}
+
+    #base-story .base-story-desc .story-title h3{
+        font-size: 15px;}
+
+    #base-story .base-story-desc .story-title p{
+        font-size: 13px;}
+
+    #base-story .base-story-desc .story-item{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;}
+
+    #base-story .base-story-desc .story-item div{
+        width: 50%;
+    margin-bottom: 10px;}
+
+    #services{
+        height: 120vh;}
+
+    #services .services-title h2{
+        font-size: 20px;}
+
+    #services .tab-button ul li svg{
+        font-size: 15px;}
+
+    #services .tab-button ul li{
+        font-size: 13px;}
+
+    #services .tab-content .content-title h3{
+        font-size: 16px;}
+
+    #services .tab-content .content-title p{
+        font-size: 14px;}
+
+    #about .about-title h2{
+        font-size: 18px;}
+
+    #about .about-title p{
+        font-size: 13px;}
+
+    #about .about-team{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;}
+
+    #about .about-team .about-team-item{
+        width: 50%;}
+
+    #about .about-team .about-team-item{
+        height: 220px;
+        margin-top: 10px;}
+
+    #beauty .beauty-text h1{
+        font-size: 15px;}
+
+    #beauty .beauty-text a{
+        padding: 8px 12px;}
+
+    #project .project-title h2{
+        font-size: 16px;}
+
+    #project .box .box-item h4{
+        padding: 2px 10px;
+    font-size: 13;}
+
+    #project .box .box-item p{
+        font-size: 12px;}
+
+    #project #lightSlider{
+        height: 320px;}
+
+    #article .article-title h2{
+        font-size: 16px;}
+
+    #article .post img{
+        height: 200px;}
+
+    footer .footer-about .about-title h3{
+        font-size: 20px;}
+
+    footer .footer-about .about-title p{
+        width: 380px;
+        font-size: 14px;}
+
+    footer .footer-about .about-contact form input{
+        padding: 8px 12px;}
+
+    footer .footer-about .about-contact .footer-social ul li a svg{
+        font-size: 20px;}
+
+    footer .footer-content .hot-content h3{
+        font-size: 16px;}
+
+    footer .footer-content .hot-content ul li a .hot-content-title h5{
+        font-size: 13px;}
+
+    footer .footer-content .quick-access h3{
+        font-size: 16px;}
+
+    footer .footer-content .quick-access ul li a{
+        font-size: 13px;}
+
+    footer .footer-content .portfolio h3{
+        font-size: 16px;}
+
+    footer .footer-content .portfolio ul li a .portfolio-title h5{
+        font-size: 13px;}
+
+    footer .copy-right h4{
+        font-size: 14px;}
+
+    #single-content .single-row main .main-title h3{
+        font-size: 14px;}
+
+    #single-content .single-row main .main-desc p{
+        font-size: 14px;}
+
+    #single-content .single-row main .main-desc ul h4{
+        font-size: 14px;}
+
+    #single-content .single-row main .main-desc ul li a{
+        font-size: 12px;}
+
+    #single-content .single-row main .main-desc .comment .comment-item .comment-item-desc h3{
+        font-size: 16px;}
+
+    #single-content .single-row main .main-desc .comment .comment-item .comment-item-desc p{
+        font-size: 12px;}
+
+    #single-content .single-row main .main-desc .comment-replay .replay-item .replay-item-desc h3{
+        font-size: 14px;}
+
+    #single-content .single-row main .main-desc .comment-replay .replay-item .replay-item-desc p{
+        font-size: 12px;}
+
+    #single-content .single-row main .main-desc .comment-replay{
+        margin-right: 30px;}
+
+    #single-content .single-row aside .sidebar-item h2{
+        font-size: 14px;}
+
+    #single-content .single-row aside .sidebar-item ul li a{
+        font-size: 14px;}
+
+    #single-content .single-row aside .sidebar-item ul li span{
+        font-size: 10px;}
+}
+
+@media screen and (max-width: 414px){
+
+    #header-top{
+        height: 8vh;}
+
+    #header-top .header-top-message{
+        width: 100%;
+        justify-content: center;}
+
+    #header-top .header-top-social ul{
+        width: 100%;
+        margin-top: 10px;}
+
+    #slider{
+        height: 400px;}
+
+    #slider .slider-desc{
+        font-size: 16px;}
+
+    #slider .slider-desc .typed{
+        font-size: 14px;}
+
+    #base-story .base-story-video{
+        width: 100%;}
+
+    #base-story .base-story-desc{
+        width: 100%;}
+
+    #services .tab-button ul li svg{
+        display: none;}
+
+    #services .tab-content .content-title h3{
+        font-size: 14px;}
+
+    #services .tab-content .content-title p{
+        font-size: 12px;}
+
+    #services{
+        height: 110vh;}
+
+    #services .tab-content .tab .tab-content-link a{
+        padding: 7px;}
+
+    #about .about-title h2{
+        font-size: 16px;}
+
+    #about .about-title p{
+        font-size: 12px;}
+
+    #about .about-title button{
+        padding: 7px;}
+
+    #about .about-team .about-team-item img{
+        height: 180px;}
+
+    #about .about-team .about-team-item{
+        height: 180px;
+        margin-top: 10px;}
+
+    #beauty{
+        height: 250px;}
+        
+    #beauty .beauty-text h1{
+        font-size: 16px;}
+
+    #beauty .beauty-text a{
+        padding: 5px 10px;}
+
+    #project .project-title h2{
+        font-size: 14px;}
+
+    #project .project-title button{
+        width: 30%;}
+
+    #project .box .box-item{
+        width: 290px;}
+
+    #project .box .box-item img{
+        width: 290px;}
+
+    #project #lightSlider{
+        height: 300px;}
+
+    #project .box .box-item h4{
+        padding: 2px 100px;}
+
+    #project .box .box-item p{
+        width: 264px;
+        font-size: 11px;}
+
+    #article .article-title h2{
+        font-size: 14px;}
+
+    #article .article-title button{
+        width: 30%;}
+
+    #article .post .date h3{
+        font-size: 12px;}
+
+    #article .post img{
+        height: 180px;}
+
+    #article .post .hover-search::before{
+        display: none;}
+
+    #article .post .hover-search::after{
+        display: none;}
+        
+    #article .post .post-overlay svg{
+        font-size: 30px;}
+
+    #article .post .date h3{
+        font-size: 11.5px;}
+
+    #partner ul li{
+        width: 80%;}
+
+    footer .footer-about .about-contact form{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;}
+
+    footer .footer-about .about-contact form button{
+        margin-top: 20px;}
+
+    footer .footer-about .about-contact .footer-social ul{
+        width: 70%;}
+
+    #single-content .single-row main{
+        width: 100%;}
+
+    #single-content .single-row main .main-title h3{
+        font-size: 12px;}
+
+    #single-content .single-row main .main-date h5{
+        font-size: 11px;}
+
+    #single-content .single-row main .main-desc p{
+        font-size: 12px;}
+
+    #single-content .single-row main .main-desc .comment-replay{
+        margin-right: 25px;}
+
+    #single-content .single-row aside{
+        width: 80%;}
+
+}
